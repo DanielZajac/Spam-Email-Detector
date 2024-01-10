@@ -35,7 +35,7 @@ We also included an 'About us' page, which has clickable links with our GitHub p
 ### How to run
 To run this project, you must first install IntelliJ IDEA, GlassFish 7.0.0 (or similar versions) and git. 
 - First, navigate to our GitHub repository at
-https://github.com/OntarioTech-CS-program/w23-csci2020u-assignment01-garcia-nithysingha-zajac. Select the 'code' 
+https://github.com/DanielZajac/Spam-Email-Detector. Select the 'code' 
 dropdown menu, and copy the HTTPS link under the 'clone' tab.
 - Then, open any shell of your choice, and navigate to your desired directory, where you will clone the project.
 - type 'git clone *link*', where *link* represents the HTTPS link you copied from our repository. 
